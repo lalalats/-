@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+void heart() {
+	printf("        **           **        \n");
+	printf("    *       *     *       *    \n");
+	printf("  *            *            *  \n");
+	printf(" *                           * \n");
+	printf(" *                           * \n");
+	printf(" *                           * \n");
+	printf(" *                           * \n");
+	printf("  *                         *  \n");
+	printf("   *                       *   \n");
+	printf("    *                     *    \n");
+	printf("      *                 *      \n");
+	printf("        *             *        \n");
+	printf("          *         *          \n");
+	printf("             *   *             \n");
+	printf("               *               \n");
+}
+
+int main() {
+	heart();
+	return 0;
+}
